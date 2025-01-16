@@ -1,5 +1,5 @@
 context:
-  version: 2.0.0
+  version: "3.0.0"
 
 package:
   name: remark-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/remark-language-server/-/remark-language-server-${{ version }}.tgz
-  sha256: bbcbfbd25769df496df0091ca012cba146f490c17f120289cdb5b69046a87b84
+  sha256: a0ddabbd3dea0539a4bead04573903db851a79677ba2536e332f43a5f4a33568
 
 build:
   number: 0
